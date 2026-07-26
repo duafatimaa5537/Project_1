@@ -1,7 +1,7 @@
 Project 1 – Data Cleaning & Preparation
 
 Overview: <br>
-This project was completed as part of my Data Analytics Internship at DecodeLabs. The objective was to clean and prepare a raw dataset to ensure data quality and consistency before further analysis.
+This project was completed as part of my Data Analytics Internship. The objective was to clean and prepare a raw dataset to ensure data quality and consistency before further analysis.
 
 Tools Used: <br>
 - Microsoft Power BI (Power Query) <br>

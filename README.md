@@ -1,13 +1,13 @@
 Project 1 – Data Cleaning & Preparation
-Overview
 
+Overview: <br>
 This project was completed as part of my Data Analytics Internship at DecodeLabs. The objective was to clean and prepare a raw dataset to ensure data quality and consistency before further analysis.
 
-Tools Used <br>
+Tools Used: <br>
 Microsoft Power BI (Power Query) <br>
 Dataset 
 
-The dataset contains customer order information, including:
+The dataset contains customer order information, including: <br>
 Order ID <br>
 Customer ID <br>
 Product <br>

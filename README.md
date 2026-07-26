@@ -8,7 +8,6 @@ Microsoft Power BI (Power Query) <br>
 Dataset 
 
 The dataset contains customer order information, including:
-
 Order ID <br>
 Customer ID <br>
 Product <br>
